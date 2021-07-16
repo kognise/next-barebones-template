@@ -5,12 +5,10 @@ module.exports = {
 			headers: [
 				{
 					key: 'X-Clacks-Overhead',
-					value: 'GNU Terry Pratchett'
-				}
-			]
-		}
+					value: 'GNU Terry Pratchett',
+				},
+			],
+		},
 	],
-	future: {
-		webpack5: true
-	}
+	webpack5: true,
 }

@@ -11,20 +11,20 @@
 		"prepare": "husky install"
 	},
 	"dependencies": {
-		"next": "^10.2.0",
+		"next": "^11.0.1",
 		"react": "^17.0.2",
 		"react-dom": "^17.0.2"
 	},
 	"devDependencies": {
-		"@types/node": "^15.0.2",
-		"@types/react": "^17.0.5",
-		"@types/styled-jsx": "^2.2.8",
-		"@typescript-eslint/eslint-plugin": "^4.23.0",
-		"@typescript-eslint/parser": "^4.23.0",
-		"eslint": "^7.26.0",
-		"eslint-plugin-react": "^7.23.2",
+		"@types/node": "^16.3.2",
+		"@types/react": "^17.0.14",
+		"@types/styled-jsx": "^2.2.9",
+		"@typescript-eslint/eslint-plugin": "^4.28.3",
+		"@typescript-eslint/parser": "^4.28.3",
+		"eslint": "^7.30.0",
+		"eslint-plugin-react": "^7.24.0",
 		"eslint-plugin-sort-imports-es6-autofix": "^0.6.0",
-		"husky": "^6.0.0",
-		"typescript": "^4.2.4"
+		"husky": "^7.0.1",
+		"typescript": "^4.3.5"
 	}
 }
