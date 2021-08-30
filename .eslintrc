@@ -67,7 +67,7 @@
 			"error",
 			{ "when": "never", "children": true }
 		],
-		"comma-dangle": [ "error", "always-multiline" ],
+		"comma-dangle": [ "error", "never" ],
 		"keyword-spacing": [
 			"error",
 			{ "before": true, "after": true }
