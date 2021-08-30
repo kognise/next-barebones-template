@@ -6,6 +6,9 @@
 	"private": true,
 	"scripts": {
 		"dev": "next dev",
+		"build": "next build",
+		"start": "next start",
+		"static": "next export",
 		"lint:fix": "eslint . --fix",
 		"lint:check": "eslint .",
 		"prepare": "husky install"
